@@ -17,6 +17,13 @@ import org.testng.annotations.Test;
 import Utility.ExcelReadWriteData;
 import Utility.ExcelReading;
 
+
+
+
+
+
+
+
 public class BaseTest {
 
 	public static WebDriver driver;  //here we are initialising variable
